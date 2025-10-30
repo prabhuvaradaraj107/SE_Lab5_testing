@@ -1,0 +1,6 @@
+************* Module inventory_system
+inventory_system.py:191:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.90/10 (previous run: 5.29/10, +4.61)
+

@@ -1,0 +1,7 @@
+inventory_system.py:23:80: E501 line too long (80 > 79 characters)
+inventory_system.py:32:80: E501 line too long (82 > 79 characters)
+inventory_system.py:46:80: E501 line too long (80 > 79 characters)
+inventory_system.py:96:80: E501 line too long (84 > 79 characters)
+inventory_system.py:103:80: E501 line too long (82 > 79 characters)
+inventory_system.py:108:80: E501 line too long (82 > 79 characters)
+inventory_system.py:191:11: W292 no newline at end of file
